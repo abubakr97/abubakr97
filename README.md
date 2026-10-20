@@ -19,8 +19,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=abubakr97&show_icons=true&theme=dark)
 
 ## 📫 تواصل معي
-- 📧 البريد: 97abubakr@gmail.com 
-- 📱 واتساب: 9647818382339+
+- 📧 البريد: 97abubakr@gmail.com
 
 ---
 ⭐ إذا أعجبك أحد مشاريعي، لا تنسَ وضع نجمة!
